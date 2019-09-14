@@ -20,7 +20,7 @@ Para el entrenamiento de ambos modelos se utilizaron en total 524 imagenes todas
 
 <img src="imagenes/25775.png" width="900px"/>
 
-[Video donde se expone el procedimiento para delinear las imagenes](https://www.youtube.com/embed/-59jc6V7aNs)
+[Dar click para ver el video donde se expone el procedimiento para delinear las imagenes](https://www.youtube.com/embed/-59jc6V7aNs)
 
 ## Ejemplos de aplicación
 
@@ -32,6 +32,7 @@ Para el entrenamiento de ambos modelos se utilizaron en total 524 imagenes todas
 
 <img src="imagenes/2255.png" width="900px"/>
 
+[Dar click para ver el código y el procedimiento detallado de como segmentar la mama](https://github.com/mandalarotation/Concurso_dotcsv_Proyecto_Mamografias/blob/master/Ejemplos/example_AtoB/example_tomosintesis.ipynb)
 
 
 
