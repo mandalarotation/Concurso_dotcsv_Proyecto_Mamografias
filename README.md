@@ -42,13 +42,16 @@ Por obvias razones de capacidad de alamacenamiento en github los modelos ya entr
 
 Jean Carlo Jiménez Giraldo (Estudiante Ing industrial - Universidad Nacional de Colombia)
 
+## Colaboradores
+
+Andrés Usuga Hoyos (Estudiante maestría en física - Universidad Nacional de Colombia),
+Javier de Jesús Morales Aramburo (Profesor de Física - Universidad Nacional de Colombia),
+David Gomez Bohorquez (Estudiante Ing industrial - Universidad Nacional de Colombia)
+
 ## Agradecimientos
 
 DotCSV,
-Andrés Usuga Hoyos (Estudiante maestría en física - Universidad Nacional de Colombia),
-Javier de Jesús Morales Aramburo (Profesor de Física - Universidad Nacional de Colombia),
 John William Branch Bedoya (Profesor de sistemas - Universidad Nacional de Colombia),
-David Gomez Bohorquez (Estudiante Ing industrial - Universidad Nacional de Colombia),
 Esteban Gonzales (Estudiante Ing industrial - Universidad Nacional de Colombia),
 Brayhan Armando Quintero (Estudiante Ing industrial - Universidad Nacional de Colombia),
 Felipe Andrés Zuluaga (Estudiante Ing industrial - Universidad Nacional de Colombia),
