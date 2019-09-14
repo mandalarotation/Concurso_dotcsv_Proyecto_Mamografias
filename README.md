@@ -6,13 +6,13 @@ En este proyecto se entrena la red pixtopix en dos sentidos con dos objetivos di
 
 <img src="imagenes/5751717.png" width="900px"/>
 
-Este obejetivo busca encontrar una solución al problema de la poca disponiblidad de imagenes en medicina; por ejemplo para investigación es muy dificil poder acceder a dicha información y de poderse es muy común que nada de los procedimientos se puedan hacer públicos debido a la confidencialidad de los pacientes, entonces la trasmisión de conocimiento se ve bastante limitada y todo queda solo resumido a la publicación de los resultados, por dicha razón la pixtopix puede ser una excelente opción para generar material educativo y tambien para generar imagenes que despues pueden servir como data de entrenamiento para otro tipo de redes o problemas especificos.
+El primer obejetivo busca encontrar una solución al problema de la poca disponiblidad de imagenes en medicina; por ejemplo para investigación es muy dificil poder acceder a dicha información y de poderse es muy común que nada de los procedimientos se puedan hacer públicos debido a la confidencialidad de los pacientes, entonces la trasmisión de conocimiento se ve bastante limitada y todo queda solo resumido a la publicación de los resultados, por dicha razón la pixtopix puede ser una excelente opción para generar material educativo y tambien para generar imagenes que despues pueden servir como data de entrenamiento para otro tipo de redes o problemas especificos.
  
 ## 2) Obtener un dibujo simple que represente las caracteristicas mas importantes de la mama a partir de una imagen realista de la misma: 
 
 <img src="imagenes/6548.png" width="900px"/>
 
-Uno de los mayores problemas a la hora de trabajar con estas imagenes es que aveces son dificiles de segmentar y sustraer ciertas caracteristicas se vuelve una tarea muy complicada incluso aveces imposible si no se cuenta con herramientas especiales, entonces la pixtopix es una buena opción para automatizar la sustracción de estas caracteristicas.
+En el segundo objetivo se afronta uno de los mayores problemas a la hora de trabajar con estas imagenes, el cual es que aveces son dificiles de segmentar y de sustraer sus caracteristicas, lo que se vuelve una tarea muy complicada e incluso aveces imposible si no se cuenta con herramientas especiales, entonces la pixtopix es una buena opción para automatizar la sustracción de estas caracteristicas.
 
 ## Recolección de las imagenes
 
@@ -34,6 +34,6 @@ Para el entrenamiento de ambos modelos se utilizaron en total 524 imagenes todas
 
 [Dar click para ver el código y el procedimiento detallado de como segmentar la mama](https://github.com/mandalarotation/Concurso_dotcsv_Proyecto_Mamografias/blob/master/Ejemplos/example_AtoB/example_tomosintesis.ipynb)
 
- Por obvias razones de capacidad de alamacenientos los modelos ya entraandos no vienen directamente en el repositorio, [para cpnseguir ambos mdodelos entrenados ir al siguiente enlace de google drive ](https://drive.google.com/file/d/12bOJ5WMeZOCbBw6w0DDblljTDvXVLUdZ/view?usp=sharing)
+ Por obvias razones de capacidad de alamacenientos los modelos ya entrenandos no vienen directamente en el repositorio, [para cpnseguir ambos mdodelos entrenados ir al siguiente enlace de google drive y descargarlos ](https://drive.google.com/file/d/12bOJ5WMeZOCbBw6w0DDblljTDvXVLUdZ/view?usp=sharing).  Una vez descargados extraerlos y ubicarlos en la carpeta modelos , entrenados, entonces siempre que se cargue un checkpoint en el código rectifar la dirección en la que quedó ubicado el modelo.
 
 
