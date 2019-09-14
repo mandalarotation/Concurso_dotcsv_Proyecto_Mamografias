@@ -44,14 +44,25 @@ Jean Carlo Jiménez Giraldo (Estudiante Ing industrial - Universidad Nacional de
 
 ## Agradecimientos
 
-Andrés Usuga Hoyos (Estudiante maestría en física - Universidad Nacional de Colombia)
-Javier de Jesús Morales Aramburo (Profesor de Física - Universidad Nacional de Colombia)
-John William Branch Bedoya (Profesor de sistemas - Universidad Nacional de Colombia)
-David Gomez Bohorquez (Estudiante Ing industrial - Universidad Nacional de Colombia)
-Esteban Gonzales (Estudiante Ing industrial - Universidad Nacional de Colombia)
-Brayhan Armando Quintero (Estudiante Ing industrial - Universidad Nacional de Colombia)
-Felipe Andrés Zuluaga (Estudiante Ing industrial - Universidad Nacional de Colombia)
-Yubar Daniel Marin ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia)
-Esteban Bermudez ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia)
+DotCSV,
+Andrés Usuga Hoyos (Estudiante maestría en física - Universidad Nacional de Colombia),
+Javier de Jesús Morales Aramburo (Profesor de Física - Universidad Nacional de Colombia),
+John William Branch Bedoya (Profesor de sistemas - Universidad Nacional de Colombia),
+David Gomez Bohorquez (Estudiante Ing industrial - Universidad Nacional de Colombia),
+Esteban Gonzales (Estudiante Ing industrial - Universidad Nacional de Colombia),
+Brayhan Armando Quintero (Estudiante Ing industrial - Universidad Nacional de Colombia),
+Felipe Andrés Zuluaga (Estudiante Ing industrial - Universidad Nacional de Colombia),
+Yubar Daniel Marin ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia),
+Esteban Bermudez ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia),
 Todos los integrandes de ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia)
+
+
+## Referencias 
+
+@article{pix2pix2016,
+  title={Image-to-Image Translation with Conditional Adversarial Networks},
+  author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A},
+  journal={arxiv},
+  year={2016}
+}
 
