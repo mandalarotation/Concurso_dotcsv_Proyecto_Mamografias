@@ -60,8 +60,8 @@ Esteban Bermudez ([semillero Unalytics](https://unalyticsteam.github.io/unalytic
 Todos los integrandes de ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia),
 Luis Eduardo Oliveros - (Estudiante ing física - Universidad Nacional de Colombia),
 ALberto Ceballos - (Estudiante Maestria Ing Sistemas - Universidad Nacional de Colombia),
-Jairo Rodriguez - (Estudiante ing física - Universidad Nacional de Colombia),
-
+Jairo Rodriguez - (Estudiante Ing física - Universidad Nacional de Colombia),Estefania Orrego Restrepo (Estudiante Maestría Ing Química - Universidad Nacional de Colombia)
+ 
 
 
 ## Referencias 
