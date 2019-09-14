@@ -1,12 +1,12 @@
 # Pixtopix para analisis de mamografias
 
-En este proyecto se entrena la red pixtopix en dos sentidos con dos objetivos distintos pero muy importantes
+Para este proyecto, se entrenó la red Pixtopix en dos sentidos, con dos objetivos diferenciados pero igualmente importantes:
 
 ## 1) Generar una mama realista a partir de un dibujo simple:
 
 <img src="imagenes/5751717.png" width="900px"/>
 
-El primer objetivo busca encontrar una solución al problema de la poca disponiblidad de imagenes en medicina; por ejemplo para investigación es muy dificil poder acceder a dicha información y de poderse es muy común que nada de los procedimientos se puedan hacer públicos debido a la confidencialidad de los pacientes, entonces la trasmisión de conocimiento se ve bastante limitada y todo queda solo resumido a la publicación de los resultados, por dicha razón la pixtopix puede ser una excelente opción para generar material educativo y tambien para generar imagenes que despues pueden servir como data de entrenamiento para otro tipo de redes o problemas especificos.
+El primer objetivo busca encontrar una solución al problema de la poca disponiblidad de imagenes en medicina; por ejemplo para investigación es muy dificil poder acceder a dicha información y de poderse es muy común que los procedimientos se puedan hacer públicos debido a la confidencialidad de los pacientes, entonces la trasmisión de conocimiento se ve bastante limitada y todo queda solo resumido a la publicación de los resultados, por dicha razón la pixtopix puede ser una excelente opción para generar material educativo y tambien para generar imagenes que despues pueden servir como data de entrenamiento para otro tipo de redes o problemas especificos.
  
 ## 2) Obtener un dibujo simple que represente las caracteristicas mas importantes de la mama a partir de una imagen realista de la misma: 
 
