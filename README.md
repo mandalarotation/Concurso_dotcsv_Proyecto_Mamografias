@@ -35,7 +35,7 @@ Las imágenes recolectadas fueron tratadas manualmente con el fin de tener sus c
 
 [Dar click para ver el código y el procedimiento detallado de como segmentar la mama](https://github.com/mandalarotation/Concurso_dotcsv_Proyecto_Mamografias/blob/master/Ejemplos/example_AtoB/example_tomosintesis.ipynb)
 
-Por obvias razones de capacidad de alamacenamiento en github los modelos ya entrenandos no vienen directamente en el repositorio, [dar clic acá para descargar los modelos entrenados ](https://drive.google.com/file/d/12bOJ5WMeZOCbBw6w0DDblljTDvXVLUdZ/view?usp=sharing).  Una vez descargados extraerlos y ubicarlos en la carpeta modelos entrenados, entonces siempre que se cargue un checkpoint en el código rectifar la dirección en la que quedó ubicado el modelo.
+Por  razones de capacidad de almacenamiento en Github, los modelos ya entrenandos no vienen directamente en el repositorio, [clic para descargar los modelos entrenados.](https://drive.google.com/file/d/12bOJ5WMeZOCbBw6w0DDblljTDvXVLUdZ/view?usp=sharing).  Una vez descargados y extraídos, se ubicarán en la carpeta "modelos entrenados".  Siempre que se cargue un checkpoint en el código, verificar la dirección en la que quedó ubicado el modelo.
 
 [Dar click para ver el video donde se expone el procedimiento para desarrollar los ejemplos, entrenar y utilizar las redes](https://youtu.be/oIyCk5IhObY)
 
