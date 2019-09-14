@@ -38,4 +38,20 @@ Por obvias razones de capacidad de alamacenamiento en github los modelos ya entr
 
 [Dar click para ver el video donde se expone el procedimiento para desarrollar los ejemplos, entrenar y utilizar las redes](https://youtu.be/oIyCk5IhObY)
 
+## Autor
+
+Jean Carlo Jiménez Giraldo (Estudiante Ing industrial - Universidad Nacional de Colombia)
+
+## Agradecimientos
+
+Andrés Usuga Hoyos (Estudiante maestría en física - Universidad Nacional de Colombia)
+Javier de Jesús Morales Aramburo (Profesor de Física - Universidad Nacional de Colombia)
+John William Branch Bedoya (Profesor de sistemas - Universidad Nacional de Colombia)
+David Gomez Bohorquez (Estudiante Ing industrial - Universidad Nacional de Colombia)
+Esteban Gonzales (Estudiante Ing industrial - Universidad Nacional de Colombia)
+Brayhan Armando Quintero (Estudiante Ing industrial - Universidad Nacional de Colombia)
+Felipe Andrés Zuluaga (Estudiante Ing industrial - Universidad Nacional de Colombia)
+Yubar Daniel Marin ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia)
+Esteban Bermudez ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia)
+Todos los integrandes de ([semillero Unalytics](https://unalyticsteam.github.io/unalytics.github.io/) - Universidad Nacional de Colombia)
 
