@@ -22,6 +22,15 @@ Para el entrenamiento de ambos modelos se utilizaron en total 524 imagenes todas
 
 [Video donde se expone el procedimiento para delinear las imagenes](https://www.youtube.com/embed/-59jc6V7aNs)
 
+## Ejemplos de aplicación
+
+### vista de la mama sin segementar
+
+<img src="imagenes/4257545.png" width="900px"/>
+
+### Vista de la mama segmentada
+
+<img src="imagenes/2255.png" width="900px"/>
 
 
 
