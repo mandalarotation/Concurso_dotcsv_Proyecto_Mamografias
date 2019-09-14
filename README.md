@@ -34,6 +34,6 @@ Para el entrenamiento de ambos modelos se utilizaron en total 524 imagenes todas
 
 [Dar click para ver el código y el procedimiento detallado de como segmentar la mama](https://github.com/mandalarotation/Concurso_dotcsv_Proyecto_Mamografias/blob/master/Ejemplos/example_AtoB/example_tomosintesis.ipynb)
 
-
+ Por obvias razones de capacidad de alamacenientos los modelos ya entraandos no vienen directamente en el repositorio, [para cpnseguir ambos mdodelos entrenados ir al siguiente enlace de google drive ](https://drive.google.com/file/d/12bOJ5WMeZOCbBw6w0DDblljTDvXVLUdZ/view?usp=sharing)
 
 
