@@ -18,7 +18,8 @@ Uno de los mayores problemas a la hora de trabajar con estas imagenes es que ave
 
 Para el entrenamiento de ambos modelos se utilizaron en total 524 imagenes todas ellas fueron recolectadas de google imagenes y baidú imagenes, buscando las palabras clave "tomosintesis", "mamografía" y "cancer de seno" en siete idiomas distintos; español, ingles,ruso,alemán,chino,japonés e hindú, despues de hacer la recoleción se procedió a delinear las caracteristicas a simple vista visibles con el software de dibujo autodesk sketchbook, es de recalcar tambien que algunas imágenes tuvieron que ser deformadas un poco para poderlas ajustar a los requerimientos de tamaño de la red, ademas como fueron recolectadas de diversas fuentes, tiene gran variabilidad en cuanto los efectos, la nitidez, la iluminación y las condiciones con que fueron tomadas, aún así se siguió adelante con el proceso, todo con la esperanza de que tanta variabilidad no resultara enmascarando a la red las caracteristicas de interes.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-59jc6V7aNs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video donde se expone el procedimiento para delinear las imagenes](https://www.youtube.com/embed/-59jc6V7aNs)
+
 
 
 
