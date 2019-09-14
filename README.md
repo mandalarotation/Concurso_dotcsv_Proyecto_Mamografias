@@ -6,7 +6,8 @@ Para este proyecto, se entrenó la red Pixtopix en dos sentidos, con dos objetiv
 
 <img src="imagenes/5751717.png" width="900px"/>
 
-El primer objetivo busca encontrar una solución al problema de la poca disponiblidad de imagenes en medicina; por ejemplo para investigación es muy dificil poder acceder a dicha información y de poderse es muy común que los procedimientos se puedan hacer públicos debido a la confidencialidad de los pacientes, entonces la trasmisión de conocimiento se ve bastante limitada y todo queda solo resumido a la publicación de los resultados, por dicha razón la pixtopix puede ser una excelente opción para generar material educativo y tambien para generar imagenes que despues pueden servir como data de entrenamiento para otro tipo de redes o problemas especificos.
+1.Generar una mama realista a partir de un dibujo simple para encontrar una solución al problema de imágenes en medicina: 
+Es complicado acceder a la información por imágenes médicas debido a las políticas de confidencialidad de los pacientes, lo cual, es claramente aceptable pero restringe la transmisión de conocimientos más allá de los resultados. Para fines investigativos en los que los resultados sean publicables, entrenar la red Pixtopix es una excelente alternativa para generar material educativo o imágenes que sirvan como data de entrenamiento para otros tipos de redes o problemas específicos.
  
 ## 2) Obtener un dibujo simple que represente las caracteristicas mas importantes de la mama a partir de una imagen realista de la misma: 
 
