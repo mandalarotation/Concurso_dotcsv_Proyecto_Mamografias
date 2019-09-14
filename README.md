@@ -2,18 +2,17 @@
 
 Para este proyecto, se entrenó la red Pixtopix en dos sentidos, con dos objetivos diferenciados pero igualmente importantes:
 
-## 1) Generar una mama realista a partir de un dibujo simple:
+## 1) Generar una mama realista a partir de un dibujo simple para encontrar una solución al problema de imágenes en medicina:
 
 <img src="imagenes/5751717.png" width="900px"/>
 
-1.Generar una mama realista a partir de un dibujo simple para encontrar una solución al problema de imágenes en medicina: 
 Es complicado acceder a la información por imágenes médicas debido a las políticas de confidencialidad de los pacientes, lo cual, es claramente aceptable pero restringe la transmisión de conocimientos más allá de los resultados. Para fines investigativos en los que los resultados sean publicables, entrenar la red Pixtopix es una excelente alternativa para generar material educativo o imágenes que sirvan como data de entrenamiento para otros tipos de redes o problemas específicos.
  
-## 2) Obtener un dibujo simple que represente las caracteristicas mas importantes de la mama a partir de una imagen realista de la misma: 
+## 2) Obtener un dibujo simple que represente las características mas importantes de la mama a partir de un estudio clínico:
 
 <img src="imagenes/6548.png" width="900px"/>
 
-En el segundo objetivo se afronta uno de los mayores problemas a la hora de trabajar con estas imagenes, el cual es que aveces son dificiles de segmentar y de sustraer sus caracteristicas, lo que se vuelve una tarea muy complicada e incluso aveces imposible si no se cuenta con herramientas especiales, entonces la pixtopix es una buena opción para automatizar la sustracción de estas caracteristicas.
+Las imágenes en mamografía se tornan complicadas en su análisis ya que sus estructuras son difíciles de segmentar; esto hace que la sustracción de características sea tediosa si no se cuenta con herramientas de mayos complejidad. El uso de la Pixtopix permite automatizar el proceso de diferenciación de estructuras individuales para trabajar con este tipo de imágenes médicas.
 
 ## Recolección de las imagenes
 
