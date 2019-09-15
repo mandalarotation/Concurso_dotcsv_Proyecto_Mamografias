@@ -1,18 +1,18 @@
-# Pixtopix para analisis de mamografias
+# Pix2pix para analisis de mamografias
 
-Para este proyecto, se entrenó la red Pixtopix en dos sentidos, con dos objetivos diferenciados pero igualmente importantes:
+Para este proyecto, se entrenó la red Pix2pix en dos sentidos, con dos objetivos diferenciados pero igualmente importantes:
 
 ## 1) Generar una mama realista a partir de un dibujo simple para encontrar una solución al problema de imágenes en medicina:
 
 <img src="imagenes/5751717.png" width="900px"/>
 
-Es complicado acceder a la información por imágenes médicas debido a las políticas de confidencialidad de los pacientes, lo cual, es claramente aceptable pero restringe la transmisión de conocimientos más allá de los resultados. Para fines investigativos en los que los resultados sean publicables, entrenar la red Pixtopix es una excelente alternativa para generar material educativo o imágenes que sirvan como data de entrenamiento para otros tipos de redes o problemas específicos.
+Es complicado acceder a la información por imágenes médicas debido a las políticas de confidencialidad de los pacientes, lo cual, es claramente aceptable pero restringe la transmisión de conocimientos más allá de los resultados. Para fines investigativos en los que los resultados sean publicables, entrenar la red Pix2pix es una excelente alternativa para generar material educativo o imágenes que sirvan como data de entrenamiento para otros tipos de redes o problemas específicos.
  
 ## 2) Obtener un dibujo simple que represente las características mas importantes de la mama a partir de un estudio clínico:
 
 <img src="imagenes/6548.png" width="900px"/>
 
-Las imágenes en mamografía se tornan complicadas en su análisis ya que sus estructuras son difíciles de segmentar; esto hace que la sustracción de características sea tediosa si no se cuenta con herramientas de mayos complejidad. El uso de la Pixtopix permite automatizar el proceso de diferenciación de estructuras individuales para trabajar con este tipo de imágenes médicas.
+Las imágenes en mamografía se tornan complicadas en su análisis ya que sus estructuras son difíciles de segmentar; esto hace que la sustracción de características sea tediosa si no se cuenta con herramientas de mayos complejidad. El uso de la Pix2pix permite automatizar el proceso de diferenciación de estructuras individuales para trabajar con este tipo de imágenes médicas.
 
 ## Recolección de las imagenes
 
